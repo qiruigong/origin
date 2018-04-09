@@ -1,0 +1,811 @@
+[W 06:36:03.176 NotebookApp] Collisions detected in /home/ubuntu/.jupyter/jupyter_notebook_config.py and /home/ubuntu/.jupyter/jupyter_notebook_config.json config files. /home/ubuntu/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "u'sha1:08d08e5e2b3d:41cd2281ebe4b1e85d741365f97cbb454c460c4f' ignored, using u'sha1:cb13a15d2dfc:8a86dbeb373d384d24763deea3c252ecaa91c2e1'"
+      }
+    }
+[W 06:36:03.306 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 06:36:03.312 NotebookApp] Serving notebooks from local directory: /home/ubuntu
+[I 06:36:03.312 NotebookApp] 0 active kernels
+[I 06:36:03.312 NotebookApp] The Jupyter Notebook is running at:
+[I 06:36:03.312 NotebookApp] http://[all ip addresses on your system]:8899/
+[I 06:36:03.312 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 06:36:27.046 NotebookApp] 302 GET / (222.126.176.10) 0.55ms
+[I 06:39:35.965 NotebookApp] 302 GET /notebooks/Python_Challenges_100+.ipynb (199.116.169.254) 0.75ms
+[W 06:39:38.388 NotebookApp] Forbidden
+[W 06:39:38.389 NotebookApp] 403 GET /api/contents/Python_Challenges_100+.ipynb?type=notebook&_=1522823977273 (199.116.169.254) 0.94ms referer=None
+[I 06:39:40.150 NotebookApp] Kernel started: 15b47eab-4e68-4121-9fe9-b910f40ed548
+[I 06:39:40.643 NotebookApp] Adapting to protocol v5.1 for kernel 15b47eab-4e68-4121-9fe9-b910f40ed548
+[W 06:39:40.652 NotebookApp] Forbidden
+[W 06:39:40.652 NotebookApp] 403 GET /api/contents/Python_Challenges_100+.ipynb/checkpoints?_=1522823977274 (199.116.169.254) 0.79ms referer=None
+[I 06:41:41.131 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 06:47:46.796 NotebookApp] 302 GET / (14.215.161.183) 0.41ms
+[I 06:47:46.967 NotebookApp] 302 GET /tree? (14.215.161.183) 0.70ms
+[I 06:48:06.452 NotebookApp] 302 POST /login?next=%2Ftree%3F (222.126.176.17) 1.12ms
+[I 06:49:05.261 NotebookApp] Adapting to protocol v5.1 for kernel 15b47eab-4e68-4121-9fe9-b910f40ed548
+[I 06:49:06.537 NotebookApp] 302 GET /edit/jup.log (199.116.169.254) 0.72ms
+[W 06:49:08.555 NotebookApp] Forbidden
+[W 06:49:08.556 NotebookApp] 403 GET /api/contents/jup.log?type=file&format=text&_=1522824547825 (199.116.169.254) 0.92ms referer=None
+[I 08:13:40.346 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:15:40.347 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:17:40.339 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:19:40.339 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:21:40.347 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:23:40.480 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:25:40.370 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:27:40.350 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:29:40.343 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:31:40.335 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:55:40.970 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:57:40.371 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:59:40.356 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[W 10:01:09.796 NotebookApp] Method Not Allowed
+[W 10:01:09.797 NotebookApp] 405 GET /api/kernels/15b47eab-4e68-4121-9fe9-b910f40ed548/interrupt (199.116.169.254) 0.87ms referer=None
+[I 10:01:10.025 NotebookApp] Kernel interrupted: 15b47eab-4e68-4121-9fe9-b910f40ed548
+[I 10:01:40.354 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:03:40.364 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:05:40.360 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:07:40.791 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:09:40.898 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:11:40.393 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:13:40.355 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:15:40.354 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:17:40.386 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:17:48.389 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:17:59.380 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:18:01.308 NotebookApp] Starting buffering for 15b47eab-4e68-4121-9fe9-b910f40ed548:be85a3efa29f48ac8164ac39a86dce1c
+[W 10:18:07.255 NotebookApp] Notebook Python_Challenges_100+.ipynb is not trusted
+[I 10:18:07.941 NotebookApp] Adapting to protocol v5.1 for kernel 15b47eab-4e68-4121-9fe9-b910f40ed548
+[I 10:18:08.027 NotebookApp] Starting buffering for 15b47eab-4e68-4121-9fe9-b910f40ed548:4c9e61516d9648ce8bf23e956a0b4ebc
+[W 10:18:13.951 NotebookApp] Forbidden
+[W 10:18:13.952 NotebookApp] 403 GET /api/sessions/b1d50896-2a42-4738-ab79-e691c79e20bf (199.116.169.254) 0.90ms referer=None
+[I 10:18:14.438 NotebookApp] Kernel shutdown: 15b47eab-4e68-4121-9fe9-b910f40ed548
+[I 09:19:36.275 NotebookApp] 302 GET / (103.246.38.196) 0.39ms
+[I 09:19:36.348 NotebookApp] 302 GET /tree? (103.246.38.196) 0.68ms
+[I 09:19:36.576 NotebookApp] 302 GET / (222.126.176.9) 0.37ms
+[I 09:19:36.770 NotebookApp] 302 GET /tree? (103.246.38.196) 0.65ms
+[W 09:19:37.681 NotebookApp] Forbidden
+[W 09:19:37.682 NotebookApp] 403 GET /api/config/common?_=1523006377446 (103.246.38.196) 0.90ms referer=None
+[W 09:19:37.685 NotebookApp] Forbidden
+[W 09:19:37.685 NotebookApp] 403 GET /api/terminals?_=1523006377447 (103.246.38.196) 0.64ms referer=None
+[W 09:19:37.689 NotebookApp] Forbidden
+[W 09:19:37.690 NotebookApp] 403 GET /api/kernelspecs (103.246.38.196) 0.61ms referer=None
+[W 09:19:37.694 NotebookApp] Forbidden
+[W 09:19:37.694 NotebookApp] 403 GET /api/config/tree?_=1523006377445 (103.246.38.196) 0.67ms referer=None
+[W 09:19:37.697 NotebookApp] Forbidden
+[W 09:19:37.697 NotebookApp] 403 GET /api/terminals?_=1523006377449 (103.246.38.196) 0.60ms referer=None
+[W 09:19:37.698 NotebookApp] Forbidden
+[W 09:19:37.699 NotebookApp] 403 GET /api/sessions?_=1523006377448 (103.246.38.196) 0.65ms referer=None
+[W 09:19:38.056 NotebookApp] Forbidden
+[W 09:19:38.057 NotebookApp] 403 GET /api/contents?type=directory&_=1523006377450 (103.246.38.196) 0.91ms referer=None
+[W 09:19:38.281 NotebookApp] Forbidden
+[W 09:19:38.282 NotebookApp] 403 GET /api/sessions?_=1523006377448 (155.64.38.90) 0.89ms referer=None
+[I 09:19:39.466 NotebookApp] 302 GET /notebooks/Python_Challenges_100+.ipynb (103.246.38.196) 0.70ms
+[W 09:19:40.253 NotebookApp] Forbidden
+[W 09:19:40.253 NotebookApp] 403 GET /api/config/notebook?_=1523006379987 (103.246.38.196) 0.84ms referer=None
+[W 09:19:40.346 NotebookApp] Forbidden
+[W 09:19:40.346 NotebookApp] 403 GET /api/contents/Python_Challenges_100+.ipynb?type=notebook&_=1523006379989 (103.246.38.196) 0.93ms referer=None
+[W 09:19:40.433 NotebookApp] Notebook Python_Challenges_100+.ipynb is not trusted
+[I 09:19:41.091 NotebookApp] Kernel started: 5ef13793-8c9a-4b88-8d4c-3e49295360e8
+[W 09:19:41.173 NotebookApp] Forbidden
+[W 09:19:41.173 NotebookApp] 403 GET /api/contents/Python_Challenges_100+.ipynb/checkpoints?_=1523006379990 (103.246.38.196) 0.94ms referer=None
+[I 09:19:41.616 NotebookApp] Adapting to protocol v5.1 for kernel 5ef13793-8c9a-4b88-8d4c-3e49295360e8
+[I 09:21:41.272 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:25:41.310 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:27:41.268 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:29:41.264 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:31:41.470 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[W 09:35:41.677 NotebookApp] Forbidden
+[W 09:35:41.677 NotebookApp] 403 GET /api/contents/Python_Challenges_100+.ipynb?content=0&_=1523006379996 (199.116.169.254) 0.93ms referer=None
+[I 09:35:42.178 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:37:41.261 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:39:41.277 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:41:41.258 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:43:41.266 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:45:41.323 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:47:41.316 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:49:41.243 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:51:41.256 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:53:41.473 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:55:41.320 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[W 09:56:41.338 NotebookApp] Method Not Allowed
+[W 09:56:41.338 NotebookApp] 405 GET /api/kernels/5ef13793-8c9a-4b88-8d4c-3e49295360e8/interrupt (199.116.169.254) 0.86ms referer=None
+[I 09:58:19.506 NotebookApp] Starting buffering for 5ef13793-8c9a-4b88-8d4c-3e49295360e8:1a16ed7a15934fcd81cb5202c9e9b679
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.515 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.516 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.517 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.517 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.517 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.517 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.517 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.529 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.529 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.529 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.529 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.529 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.530 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.531 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.532 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.533 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.533 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.533 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.533 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.537 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.537 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.537 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.537 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.537 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.538 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.539 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.540 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.540 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.540 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.540 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.540 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[E 09:58:19.540 NotebookApp] Future exception was never retrieved: Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/gen.py", line 1107, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 810, in wrapper
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[W 09:58:19.713 NotebookApp] Forbidden
+[W 09:58:19.713 NotebookApp] 403 GET /api/sessions?_=1523006377451 (199.116.169.254) 0.89ms referer=None
+[W 09:58:19.724 NotebookApp] Forbidden
+[W 09:58:19.724 NotebookApp] 403 GET /api/terminals?_=1523006377452 (199.116.169.254) 0.62ms referer=None
+[W 09:58:19.855 NotebookApp] Forbidden
+[W 09:58:19.855 NotebookApp] 403 GET /api/terminals?_=1523006377452 (155.64.38.81) 0.85ms referer=None
+[W 09:58:20.047 NotebookApp] Forbidden
+[W 09:58:20.047 NotebookApp] 403 GET /api/sessions?_=1523006377453 (199.116.169.254) 0.84ms referer=None
+[W 09:58:20.646 NotebookApp] Forbidden
+[W 09:58:20.646 NotebookApp] 403 GET /api/contents?type=directory&_=1523006377454 (199.116.169.254) 0.88ms referer=None
+[W 09:58:20.953 NotebookApp] Forbidden
+[W 09:58:20.953 NotebookApp] 403 GET /api/contents?type=directory&_=1523006377455 (199.116.169.254) 0.88ms referer=None
+[W 09:58:21.218 NotebookApp] Forbidden
+[W 09:58:21.219 NotebookApp] 403 GET /api/contents?type=directory&_=1523006377457 (199.116.169.254) 0.83ms referer=None
+[W 09:58:24.149 NotebookApp] Forbidden
+[W 09:58:24.150 NotebookApp] 403 GET /api/sessions/1ea61e7a-d070-4a74-bc48-b270e2c0a610 (199.116.169.254) 0.88ms referer=None
+[I 09:58:24.426 NotebookApp] Discarding 20 buffered messages for 5ef13793-8c9a-4b88-8d4c-3e49295360e8:1a16ed7a15934fcd81cb5202c9e9b679
+[I 09:58:29.438 NotebookApp] Kernel shutdown: 5ef13793-8c9a-4b88-8d4c-3e49295360e8
+[I 09:58:31.547 NotebookApp] 302 GET /notebooks/Python_Challenges_100+.ipynb (199.116.169.254) 0.69ms
+[I 09:58:32.917 NotebookApp] 302 GET / (199.116.169.254) 0.42ms
+[I 09:58:33.281 NotebookApp] 302 GET /tree? (199.116.169.254) 0.76ms
+[W 09:58:34.930 NotebookApp] Forbidden
+[W 09:58:34.931 NotebookApp] 403 GET /api/config/notebook?_=1523008714241 (199.116.169.254) 0.95ms referer=None
+[W 09:58:34.942 NotebookApp] Forbidden
+[W 09:58:34.942 NotebookApp] 403 GET /api/config/common?_=1523008714242 (199.116.169.254) 0.65ms referer=None
+[W 09:58:35.676 NotebookApp] Forbidden
+[W 09:58:35.676 NotebookApp] 403 GET /api/contents/Python_Challenges_100+.ipynb/checkpoints?_=1523008714244 (199.116.169.254) 0.71ms referer=None
+[W 09:58:38.021 NotebookApp] Forbidden
+[W 09:58:38.021 NotebookApp] 403 GET /api/kernelspecs (199.116.169.254) 0.86ms referer=None
+[I 09:58:38.560 NotebookApp] Kernel started: f4582a6f-a329-4f43-bf2f-0fbf8f3849da
+[I 09:58:39.213 NotebookApp] Adapting to protocol v5.1 for kernel f4582a6f-a329-4f43-bf2f-0fbf8f3849da
+[I 10:00:35.369 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:02:35.382 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[W 10:03:39.225 NotebookApp] Method Not Allowed
+[W 10:03:39.225 NotebookApp] 405 GET /api/kernels/f4582a6f-a329-4f43-bf2f-0fbf8f3849da/interrupt (199.116.169.254) 0.87ms referer=None
+[I 10:03:46.901 NotebookApp] Starting buffering for f4582a6f-a329-4f43-bf2f-0fbf8f3849da:e970683379854f8a80523046ef2bb521
+[W 10:03:55.388 NotebookApp] Forbidden
+[W 10:03:55.389 NotebookApp] 403 GET /api/sessions/46782bf5-67e1-4f78-a14b-091f8174d601 (199.116.169.254) 0.87ms referer=None
+[I 10:04:00.686 NotebookApp] Kernel shutdown: f4582a6f-a329-4f43-bf2f-0fbf8f3849da
+[I 10:04:02.684 NotebookApp] Kernel started: 8e4e2eee-a802-4777-9a00-b4c5acc5cc9b
+[I 10:04:03.176 NotebookApp] Adapting to protocol v5.1 for kernel 8e4e2eee-a802-4777-9a00-b4c5acc5cc9b
+[I 10:05:07.556 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 10:06:02.320 NotebookApp] Starting buffering for 8e4e2eee-a802-4777-9a00-b4c5acc5cc9b:885566edf20c48aa99f9112646f8e009
+[W 10:06:06.731 NotebookApp] Forbidden
+[W 10:06:06.731 NotebookApp] 403 GET /api/sessions/ea42368f-c1ff-474c-8f70-dca05077a63a (199.116.169.254) 0.90ms referer=None
+[I 10:06:07.159 NotebookApp] Kernel shutdown: 8e4e2eee-a802-4777-9a00-b4c5acc5cc9b
+[I 07:15:57.658 NotebookApp] 302 GET / (219.228.146.71) 0.42ms
+[I 07:16:02.016 NotebookApp] Kernel started: 7ba302d2-d769-4597-a475-a794371ba4f6
+[I 07:16:02.467 NotebookApp] Adapting to protocol v5.1 for kernel 7ba302d2-d769-4597-a475-a794371ba4f6
+[I 07:18:02.177 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:20:02.145 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:22:02.155 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:24:02.163 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:26:02.139 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:28:02.163 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:30:02.131 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:32:02.726 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:34:02.144 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:36:02.151 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:56:02.295 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 07:58:02.155 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:00:02.150 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:02:02.153 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:04:02.163 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:16:02.252 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:20:02.157 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:22:02.155 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:24:02.168 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:26:02.159 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:28:02.159 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:30:02.158 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:34:02.166 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:36:02.157 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:38:02.154 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:40:02.157 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:42:02.158 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:44:02.171 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:46:02.161 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 08:48:02.169 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:06:02.382 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:08:02.174 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:10:02.187 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:10:06.313 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:18:17.895 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:20:02.177 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:00.540 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:05.573 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:06.783 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:08.947 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:09.394 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:10.050 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:11.134 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:11.847 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:12.476 NotebookApp] Saving file at /Python_Challenges_100+.ipynb
+[I 09:22:18.144 NotebookApp] Starting buffering for 7ba302d2-d769-4597-a475-a794371ba4f6:8e3c4eac058d41efba7c220698f6f316
+[W 09:22:21.508 NotebookApp] Notebook Python_Challenges_100+.ipynb is not trusted
+[I 09:22:25.974 NotebookApp] Kernel shutdown: 7ba302d2-d769-4597-a475-a794371ba4f6
+[I 09:29:21.617 NotebookApp] Creating new notebook in 
+[I 09:29:22.620 NotebookApp] Kernel started: ecb1b58d-4e8e-4cf2-99f9-de0f9d4446e1
+[I 09:29:23.070 NotebookApp] Adapting to protocol v5.1 for kernel ecb1b58d-4e8e-4cf2-99f9-de0f9d4446e1
+[I 09:31:22.747 NotebookApp] Saving file at /Run_Bash.ipynb
+[I 09:33:22.736 NotebookApp] Saving file at /Run_Bash.ipynb
+[I 09:35:10.266 NotebookApp] Saving file at /Run_Bash.ipynb
+[I 09:35:12.659 NotebookApp] Starting buffering for ecb1b58d-4e8e-4cf2-99f9-de0f9d4446e1:737839eca37645289acdee80a73f13f5
+[I 09:35:16.940 NotebookApp] Kernel shutdown: ecb1b58d-4e8e-4cf2-99f9-de0f9d4446e1
